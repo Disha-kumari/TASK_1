@@ -41,7 +41,7 @@ JUnit 4/5 library
 
 Open the project in Eclipse.
 
-Run the LibraryManager.java file as a Java Application.
+Run the Library.java file as a Java Application.
 
 You’ll see an interactive menu:
 
@@ -55,19 +55,13 @@ Enter choice:
 
 🧪 Running JUnit Tests
 
-In Eclipse, right-click LibraryManagerTest.java.
+In Eclipse, right-click LibraryTest.java.
 
 Choose Run As → JUnit Test.
 
 ✅ Green bar = All tests passed
 ❌ Red bar = Some tests failed
 
-The tests cover:
 
-borrowBook()
-
-giveBackBook()
-
-isFree()
 
 
