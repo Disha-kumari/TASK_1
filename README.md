@@ -37,11 +37,6 @@ Eclipse IDE (or IntelliJ, or any Java IDE)
 
 JUnit 4/5 library
 
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/library-management-system.git
 
 
 Open the project in Eclipse.
